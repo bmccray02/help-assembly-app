@@ -1,0 +1,919 @@
+{
+  "center": "30314",
+  "radius_miles": 20,
+  "total_zip_codes": 128,
+  "zip_codes": [
+    {
+      "zip": "30314",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 0,
+      "tier": "Core"
+    },
+    {
+      "zip": "30303",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 2,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30309",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 2,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30310",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 2,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30313",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 2,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30308",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30311",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30312",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30315",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30318",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30332",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30363",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30372",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30388",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30390",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30392",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 3,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30305",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30306",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30307",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30316",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30317",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30353",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30364",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30369",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30370",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30375",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30377",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30385",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30394",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30398",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 4,
+      "tier": "Inner"
+    },
+    {
+      "zip": "30319",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30324",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30326",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30348",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30355",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30357",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30371",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30378",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30380",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30399",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 5,
+      "tier": "Near"
+    },
+    {
+      "zip": "30030",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "distance": 6,
+      "tier": "Near"
+    },
+    {
+      "zip": "30327",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 6,
+      "tier": "Near"
+    },
+    {
+      "zip": "30329",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 6,
+      "tier": "Near"
+    },
+    {
+      "zip": "30341",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 6,
+      "tier": "Near"
+    },
+    {
+      "zip": "30356",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 6,
+      "tier": "Near"
+    },
+    {
+      "zip": "30359",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 6,
+      "tier": "Near"
+    },
+    {
+      "zip": "30032",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "distance": 7,
+      "tier": "Near"
+    },
+    {
+      "zip": "30333",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 7,
+      "tier": "Near"
+    },
+    {
+      "zip": "30337",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 7,
+      "tier": "Near"
+    },
+    {
+      "zip": "30342",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 7,
+      "tier": "Near"
+    },
+    {
+      "zip": "30033",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30079",
+      "city": "Scottdale",
+      "county": "DeKalb",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30080",
+      "city": "Smyrna",
+      "county": "Cobb",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30331",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30336",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30339",
+      "city": "Atlanta",
+      "county": "Cobb",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30344",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30354",
+      "city": "Atlanta",
+      "county": "Clayton",
+      "distance": 8,
+      "tier": "Near"
+    },
+    {
+      "zip": "30021",
+      "city": "Clarkston",
+      "county": "DeKalb",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30034",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30082",
+      "city": "Smyrna",
+      "county": "Cobb",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30301",
+      "city": "Atlanta",
+      "county": "Cobb",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30328",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30340",
+      "city": "Doraville",
+      "county": "DeKalb",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30349",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 9,
+      "tier": "Near"
+    },
+    {
+      "zip": "30035",
+      "city": "Decatur",
+      "county": "DeKalb",
+      "distance": 10,
+      "tier": "Near"
+    },
+    {
+      "zip": "30067",
+      "city": "Marietta",
+      "county": "Cobb",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30126",
+      "city": "Mableton",
+      "county": "Cobb",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30272",
+      "city": "Red Oak",
+      "county": "Clayton",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30297",
+      "city": "Forest Park",
+      "county": "Clayton",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30338",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30346",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30358",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 10,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30084",
+      "city": "Tucker",
+      "county": "DeKalb",
+      "distance": 11,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30274",
+      "city": "Riverdale",
+      "county": "Clayton",
+      "distance": 11,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30060",
+      "city": "Marietta",
+      "county": "Cobb",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30071",
+      "city": "Norcross",
+      "county": "Gwinnett",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30085",
+      "city": "Tucker",
+      "county": "DeKalb",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30087",
+      "city": "Stone Mountain",
+      "county": "DeKalb",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30122",
+      "city": "Lithia Springs",
+      "county": "Douglas",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30260",
+      "city": "Morrow",
+      "county": "Clayton",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30294",
+      "city": "Ellenwood",
+      "county": "Clayton",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30296",
+      "city": "Riverdale",
+      "county": "Clayton",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30360",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30362",
+      "city": "Atlanta",
+      "county": "DeKalb",
+      "distance": 12,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30066",
+      "city": "Marietta",
+      "county": "Cobb",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30088",
+      "city": "Stone Mountain",
+      "county": "DeKalb",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30093",
+      "city": "Norcross",
+      "county": "Gwinnett",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30168",
+      "city": "Austell",
+      "county": "Cobb",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30238",
+      "city": "Jonesboro",
+      "county": "Clayton",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30273",
+      "city": "Rex",
+      "county": "Clayton",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30295",
+      "city": "Morrow",
+      "county": "Clayton",
+      "distance": 13,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30038",
+      "city": "Lithonia",
+      "county": "DeKalb",
+      "distance": 14,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30062",
+      "city": "Marietta",
+      "county": "Cobb",
+      "distance": 14,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30068",
+      "city": "Marietta",
+      "county": "Cobb",
+      "distance": 14,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30290",
+      "city": "Jonesboro",
+      "county": "Clayton",
+      "distance": 14,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30291",
+      "city": "Union City",
+      "county": "Fulton",
+      "distance": 14,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30350",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 14,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30009",
+      "city": "Atlanta",
+      "county": "Fulton",
+      "distance": 15,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30058",
+      "city": "Lithonia",
+      "county": "DeKalb",
+      "distance": 15,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30064",
+      "city": "Marietta",
+      "county": "Cobb",
+      "distance": 15,
+      "tier": "Mid"
+    },
+    {
+      "zip": "30075",
+      "city": "Roswell",
+      "county": "Fulton",
+      "distance": 15,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30134",
+      "city": "Douglasville",
+      "county": "Douglas",
+      "distance": 15,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30047",
+      "city": "Lilburn",
+      "county": "Gwinnett",
+      "distance": 16,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30076",
+      "city": "Roswell",
+      "county": "Fulton",
+      "distance": 16,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30096",
+      "city": "Duluth",
+      "county": "Gwinnett",
+      "distance": 16,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30152",
+      "city": "Kennesaw",
+      "county": "Cobb",
+      "distance": 16,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30154",
+      "city": "Douglasville",
+      "county": "Douglas",
+      "distance": 16,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30213",
+      "city": "Fairburn",
+      "county": "Fulton",
+      "distance": 16,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30077",
+      "city": "Roswell",
+      "county": "Fulton",
+      "distance": 17,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30098",
+      "city": "Duluth",
+      "county": "Gwinnett",
+      "distance": 17,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30135",
+      "city": "Douglasville",
+      "county": "Douglas",
+      "distance": 17,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30144",
+      "city": "Kennesaw",
+      "county": "Cobb",
+      "distance": 17,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30160",
+      "city": "Kennesaw",
+      "county": "Cobb",
+      "distance": 17,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30022",
+      "city": "Alpharetta",
+      "county": "Fulton",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30043",
+      "city": "Lawrenceville",
+      "county": "Gwinnett",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30046",
+      "city": "Lawrenceville",
+      "county": "Gwinnett",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30097",
+      "city": "Duluth",
+      "county": "Gwinnett",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30101",
+      "city": "Acworth",
+      "county": "Cobb",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30214",
+      "city": "Fayetteville",
+      "county": "Fayette",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30268",
+      "city": "Palmetto",
+      "county": "Fulton",
+      "distance": 18,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30005",
+      "city": "Alpharetta",
+      "county": "Fulton",
+      "distance": 19,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30044",
+      "city": "Lawrenceville",
+      "county": "Gwinnett",
+      "distance": 19,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30078",
+      "city": "Snellville",
+      "county": "Gwinnett",
+      "distance": 19,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30102",
+      "city": "Acworth",
+      "county": "Cobb",
+      "distance": 19,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30215",
+      "city": "Fayetteville",
+      "county": "Fayette",
+      "distance": 19,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30004",
+      "city": "Alpharetta",
+      "county": "Fulton",
+      "distance": 20,
+      "tier": "Outer"
+    },
+    {
+      "zip": "30045",
+      "city": "Lawrenceville",
+      "county": "Gwinnett",
+      "distance": 20,
+      "tier": "Outer"
+    }
+  ],
+  "by_county": {
+    "Fulton": 62,
+    "DeKalb": 21,
+    "Cobb": 17,
+    "Clayton": 11,
+    "Gwinnett": 11,
+    "Douglas": 4,
+    "Fayette": 2
+  },
+  "by_tier": {
+    "Core": 1,
+    "Inner": 29,
+    "Near": 36,
+    "Mid": 33,
+    "Outer": 29
+  }
+}
